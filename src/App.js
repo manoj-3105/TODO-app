@@ -1,6 +1,5 @@
 import React from 'react';
 import Todolists from './components/Todolists';
-import New from './components/New';
 function App() {
   return (
     <div>
