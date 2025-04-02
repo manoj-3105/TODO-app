@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": "4b54",
+      "text": "learn hindi",
+      "status": true
+    },
+    {
+      "id": "c767",
+      "text": "walk properly",
+      "status": true
+    },
+    {
+      "id": "3f64",
+      "text": "play football",
+      "status": true
+    },
+    {
+      "id": "2dc5",
+      "text": "go to temple",
+      "status": true
+    }
+  ]
+}
